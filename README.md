@@ -9,12 +9,16 @@
 
 ## 📸 Screenshots
 
-*(Replace the placeholder URLs below with your own actual images. Place your images in a `screenshots` folder.)*
-
 <p align="center">
-  <img src="screenshots/dashboard.png" width="45%" alt="Advanced Analytics Dashboard">
+  <img src="Screenshot 2026-03-26 013615.png" width="45%" alt="Dashboard View 1">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="screenshots/add_expense.png" width="45%" alt="Add Expense & AI Entry">
+  <img src="Screenshot 2026-03-26 013635.png" width="45%" alt="Dashboard View 2">
+</p>
+<br>
+<p align="center">
+  <img src="Screenshot 2026-03-26 013650.png" width="45%" alt="Add Expense View">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="Screenshot 2026-03-26 013703.png" width="45%" alt="Transactions View">
 </p>
 
 ## 🚀 Features
